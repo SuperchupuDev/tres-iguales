@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    font-size: 15px;
+}
+
+img {
+  user-select: none;
+}
